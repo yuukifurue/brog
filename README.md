@@ -1,0 +1,2 @@
+# brog
+railsで作成
